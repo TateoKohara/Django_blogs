@@ -1,0 +1,23 @@
+h1 {
+  color: orangered;
+  text-align: center;
+}
+
+h2 {
+  color: coral;
+  padding-top: 20px;
+}
+
+body {
+  background-color: whitesmoke;
+  padding: 20px;
+  margin: 20px;
+}
+
+.jumbotron {
+  background-color: darkgreen;
+}
+
+.text_box {
+  justify-content: center;
+}
